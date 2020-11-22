@@ -13405,3 +13405,7 @@ make it thinner, then set it to again wrap around the entire parent element.
 {
     font-size: 50px;
 }
+
+#promotion-banner{
+    margin-bottom: 3em;
+}
